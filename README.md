@@ -1,35 +1,56 @@
 <h2 align="center">
     Elevate Apparel: Elevating Your Style, Inspiring Confidence.
- </h2>
+</h2>
 
-Elevate Apparel is a e-commerce web app built with the Power of MERN
-with secure Payment integration by Stripe
+<p align="center">
+  Elevate Apparel is a modern e-commerce web application built with the power of the MERN stack, featuring secure payment integration using Stripe.
+</p>
 
-## ![](https://github.com/sagarmakkar1/ecom/tree/main/client/images/1.png?raw=true)
+---
 
-# Features
+## 🔥 Preview
+
+<p align="center">
+  <img src="https://github.com/sagarmakkar1/ecom/raw/main/client/images/1.png" alt="Home Page Preview" />
+</p>
+
+---
+
+## 🚀 Features
 
 ### 1. Interactive UI
 
-## ![](https://github.com/sagarmakkar1/ecom/tree/main/client/images/2.png?raw=true)
+<p align="center">
+  <img src="https://github.com/sagarmakkar1/ecom/raw/main/client/images/2.png" alt="Interactive UI" />
+</p>
 
-<br></br>
+---
 
 ### 2. Authentication and Password Encryption
 
-## ![](https://github.com/sagarmakkar1/ecom/tree/main/client/images/3.png?raw=true)
-<br></br>
+<p align="center">
+  <img src="https://github.com/sagarmakkar1/ecom/raw/main/client/images/3.png" alt="Authentication" />
+</p>
 
-### 3. Responsive UI
+---
 
-## ![](https://github.com/sagarmakkar1/ecom/tree/main/client/images/4.png?raw=true)
+### 3. Fully Responsive Design
 
-<br></br>
+<p align="center">
+  <img src="https://github.com/sagarmakkar1/ecom/raw/main/client/images/4.png" alt="Responsive Design" />
+</p>
 
-### 4. Secure Payments Integration by Stripe
+---
 
-## ![](https://github.com/sagarmakkar1/ecom/tree/main/client/images/5.png?raw=true)
+### 4. Secure Stripe Payment Integration
 
-<br></br>
+<p align="center">
+  <img src="https://github.com/sagarmakkar1/ecom/raw/main/client/images/5.png" alt="Stripe Integration" />
+</p>
 
-[sagarmakkar1](https://github.com/sagarmakkar1)
+---
+
+## 👨‍💻 Developed by
+
+[**@sagarmakkar1**](https://github.com/sagarmakkar1)
+
