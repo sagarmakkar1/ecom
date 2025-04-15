@@ -47,6 +47,7 @@ export const categories = [
 ];
 export const popularProducts = [
 	{
+		id:1,
 		title: "Guitar Tee",
 		desc: "Men's vintage-style graphic T-shirt.",
 		img: "https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
@@ -57,6 +58,7 @@ export const popularProducts = [
 		inStock: true,
 	},
 	{
+		id:2,
 		title: "Denim Jeans",
 		desc: "Classic blue denim jeans for all-day comfort.",
 		img: "https://www.pngarts.com/files/4/Denim-PNG-Pic.png",
@@ -67,6 +69,7 @@ export const popularProducts = [
 		inStock: true,
 	},
 	{
+		id:3,
 		title: "Prada Shirt",
 		desc: "Premium Prada slim fit cotton shirt.",
 		img: "https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
@@ -77,6 +80,7 @@ export const popularProducts = [
 		inStock: true,
 	},
 	{
+		id:4,
 		title: "Summer Dress",
 		desc: "Women's lightweight summer dress.",
 		img: "https://www.pngarts.com/files/1/Summer-Clothes-For-Women-PNG-Image-Background.png",
@@ -87,6 +91,7 @@ export const popularProducts = [
 		inStock: true,
 	},
 	{
+		id:5,
 		title: "Tote Bag",
 		desc: "Eco-friendly reusable tote bag.",
 		img: "https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
@@ -97,6 +102,7 @@ export const popularProducts = [
 		inStock: true,
 	},
 	{
+		id:6,
 		title: "Chill Cap",
 		desc: "Casual vintage chill cap.",
 		img: "https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
@@ -107,6 +113,7 @@ export const popularProducts = [
 		inStock: true,
 	},
 	{
+		id:7,
 		title: "Black Jacket",
 		desc: "Stylish black leather jacket.",
 		img: "https://www.pngarts.com/files/5/Black-Jacket-Download-PNG-Image.png",
@@ -117,6 +124,7 @@ export const popularProducts = [
 		inStock: true,
 	},
 	{
+		id:8,
 		title: "Women Jacket",
 		desc: "Trendy women's winter jacket.",
 		img: "https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
